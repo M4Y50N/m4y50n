@@ -25,7 +25,6 @@
   <a href="https://www.linkedin.com/in/mayson-petherson-3722321ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/m4y50n/m4y50n/blob/output/github-contribution-grid-snake.svg)  
-  [![Generate Datas](https://github.com/M4Y50N/m4y50n/actions/workflows/cobrinha.yml/badge.svg?event=push)](https://github.com/M4Y50N/m4y50n/actions/workflows/cobrinha.yml)
 
 </div>
   
