@@ -1,7 +1,7 @@
 ### Hello There! Welcome to Mayson's GitHub! 👌
 <div>
   <a href="https://github.com/M4Y50N">
-  <img width="auto" height="200" src="https://github-readme-stats.vercel.app/api?username=M4Y50N&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img width="available" height="200" src="https://github-readme-stats.vercel.app/api?username=M4Y50N&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=8&theme=material-palenight"/>
 </div>
 <div style="display: inline_block"><br>
