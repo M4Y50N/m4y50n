@@ -1,7 +1,10 @@
 ### Hello There! Welcome to Mayson's GitHub! 👌
+
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
 <div>
   <a href="https://github.com/M4Y50N">
-    ![](https://komarev.com/ghpvc/?username=M4Y50N&label=VIEWS)
+    
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=M4Y50N&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
