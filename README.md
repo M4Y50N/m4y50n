@@ -28,7 +28,7 @@
   
   <a href="https://github.com/M4Y50N/">
     <img src="https://komarev.com/ghpvc/?username=M4Y50N&style=for-the-badge">
-</a>
+  </a>
   
   ![Snake animation](https://github.com/m4y50n/m4y50n/blob/output/github-contribution-grid-snake.svg)  
 
