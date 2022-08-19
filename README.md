@@ -5,7 +5,7 @@
   <a href="https://github.com/M4Y50N">
     
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=M4Y50N&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=8&theme=material-palenight"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&theme=material-palenight"/>
 </div>
   
 <div style="display: inline_block"><br>
