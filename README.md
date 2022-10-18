@@ -24,7 +24,7 @@
   
   <img align="center" alt="M-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 
-  <img align="right" alt="M-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/447102571262246916/963202372870484038/picasion.com_ca7e816ab8ed67fbd320264ca30ca9df.gif">
+  <img align="right" alt="M-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/966819730616901752/1032012159846203412/dcmbh13-31be588a-d7c2-4518-b714-7f0aa41b7895.gif">
 </div>
   
   ##
