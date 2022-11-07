@@ -1,11 +1,10 @@
 ### Hello There! Welcome to Mayson's GitHub! 👌
 
 
-<div>
+
   <a href="https://github.com/M4Y50N"></a>
-    
+<div>    
   <img height="200" src="https://github-readme-stats-m4y50n.vercel.app/api?username=M4Y50N&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
-  
   <img height="200" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
   
