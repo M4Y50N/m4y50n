@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4E90ff2f&fontColor=dadada&height=300&section=header&text=M4Y50N&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0606FF&fontColor=dadada&height=300&section=header&text=M4Y50N&fontSize=90&animation=fadeIn" />
   <h1>Hello There! <br/> Welcome to Mayson's GitHub! 👌</h1>
   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100">
   <h3> Meu nome é Mayson tenho 20 anos </h3>
@@ -11,6 +11,23 @@
     E também um Full Stack em desenvolvimento na &nbsp;  
     <img width="15px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brasil.
   </p>
+  <hr/>
+  <p>
+      
+      👨‍💻 I’m currently working as a Website Develop as a Freelancer
+    
+      💻 I love writing code and learn anythings about it
+    
+      ⚡Fun fact: I love League of Legends and i also hate at the same time
+    
+      📚 I’m currently learning how to build Websites with React
+      
+      🌱 I’m currently learning English 🤦‍♂
+    
+      ☕️ I’m coffeer
+    
+  </p>
+  <hr/>
 </div>
 
 <a href="https://github.com/M4Y50N"></a>
