@@ -4,9 +4,6 @@
   <h1>Hello There! <br/> Welcome to Mayson's GitHub! 👌</h1>
   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100">
   <h3> Meu nome é Mayson tenho 20 anos </h3>
-</div>
-<div>
-  <img align="right" src="https://media.giphy.com/media/rLItOmwO8uIdNlP35O/giphy.gif" width="150">
   <p>
     Sou um estudante de Ciência da Computação, no &nbsp;  
     <img width="10px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Instituto Federal de Sergipe
@@ -25,15 +22,15 @@
 </div>
 
   
-<div style="display: inline_block" align="center"><br>
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="30">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="30">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="30">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="30">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="30">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="30">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="30">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30">
+<div style="display: inline_block"><br>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="40">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="40">
 
   <img align="right" alt="M-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/966819730616901752/1032012159846203412/dcmbh13-31be588a-d7c2-4518-b714-7f0aa41b7895.gif">
 </div>
@@ -54,12 +51,16 @@
   
   <br/>
   <div align="center">
+    <img src="https://media.giphy.com/media/rLItOmwO8uIdNlP35O/giphy.gif"  width="150">
+  </div>
+  <div align="center">
     <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
     <!-- "margin-right: whatever;" -->
     <span>&nbsp;</span>  
     <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
     <span>&nbsp;</span>  
     <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+    <span>&nbsp;</span>
   <div/>
 </div>
   
