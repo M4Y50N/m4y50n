@@ -13,7 +13,7 @@
   
 <div align=center>    
   <img height="200" src="https://github-readme-stats-m4y50n.vercel.app/api?username=M4Y50N&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=true&border_radius=0&hide_rank=true"/>
-  <img height="200" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&card_width=330px&theme=github_dark&bg_color=161B22&border_radius=0&hide_border=true"/>
+  <img height="200" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&card_width=345px&theme=github_dark&bg_color=161B22&border_radius=0&hide_border=true"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=m4y50n&theme=tokyo-night&bg_color=161B22&hide_border=true" width="100%"/>
 </div>
 
