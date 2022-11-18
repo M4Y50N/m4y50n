@@ -1,12 +1,22 @@
 
-<h1>Hello There! Welcome to Mayson's GitHub! 👌</h1>
+<div align="center">
+  <h1>Hello There! Welcome to Mayson's GitHub! 👌</h1>
 
-
-  <a href="https://github.com/M4Y50N"></a>
-<div>    
-  <img height="200" src="https://github-readme-stats-m4y50n.vercel.app/api?username=M4Y50N&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="200" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&theme=github_dark"/>
+  <h3> Meu nome é Mayson tenho 20 anos </h3>
+  <p>
+    Sou um estudante de Ciência da Computação, no Instituto Federal de Sergipe
+    <br/>
+    E também um Full Stack em desenvolvimento na Kenzie Academy Brazil.
+  </p>
 </div>
+  <a href="https://github.com/M4Y50N"></a>
+  
+<div align=center>    
+  <img height="200" src="https://github-readme-stats-m4y50n.vercel.app/api?username=M4Y50N&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=true&border_radius=0&hide_rank=true"/>
+  <img height="200" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&card_width=485px&theme=github_dark&bg_color=161B22&border_radius=0&hide_border=true"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=m4y50n&theme=tokyo-night&bg_color=161B22&hide_border=true" width="100%"/>
+</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="M-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,6 +49,7 @@
   </a>
   
   ![Snake animation](https://github.com/m4y50n/m4y50n/blob/output/github-contribution-grid-snake.svg)  
+  
 
 </div>
   
