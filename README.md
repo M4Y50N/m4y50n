@@ -1,15 +1,20 @@
 
 <div align="center">
   <h1>Hello There! Welcome to Mayson's GitHub! 👌</h1>
-
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
   <h3> Meu nome é Mayson tenho 20 anos </h3>
   <p>
     Sou um estudante de Ciência da Computação, no Instituto Federal de Sergipe
     <br/>
-    E também um Full Stack em desenvolvimento na Kenzie Academy Brazil.
+    E também um Full Stack em desenvolvimento na Kenzie Academy Brasil.
   </p>
 </div>
-  <a href="https://github.com/M4Y50N"></a>
+
+<div align="center">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  </div>
+<a href="https://github.com/M4Y50N"></a>
   
 <div align=center>    
   <img height="200" src="https://github-readme-stats-m4y50n.vercel.app/api?username=M4Y50N&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=true&border_radius=0&hide_rank=true"/>
