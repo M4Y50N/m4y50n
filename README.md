@@ -11,7 +11,6 @@
     E também um Full Stack em desenvolvimento na &nbsp;  
     <img width="15px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brasil.
   </p>
-  <hr/>
   <p>
       
       👨‍💻 I’m currently working as a Website Develop as a Freelancer
