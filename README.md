@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4E90ff&fontColor=dadada&height=300&section=header&text=M4Y50N&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4E90ff2f&fontColor=dadada&height=300&section=header&text=M4Y50N&fontSize=90&animation=fadeIn" />
   <h1>Hello There! <br/> Welcome to Mayson's GitHub! 👌</h1>
   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100">
   <h3> Meu nome é Mayson tenho 20 anos </h3>
@@ -49,7 +49,6 @@
   ![Snake animation](https://github.com/m4y50n/m4y50n/blob/output/github-contribution-grid-snake.svg)  
   
   
-  <br/>
   <div align="center">
     <img src="https://media.giphy.com/media/rLItOmwO8uIdNlP35O/giphy.gif"  width="150">
   </div>
