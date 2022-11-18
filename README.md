@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0606FF&fontColor=dadada&height=300&section=header&text=M4Y50N&fontSize=90&animation=fadeIn" />
   <h1>Hello There! <br/> Welcome to Mayson's GitHub! 👌</h1>
   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100">
-  <h3> Meu nome é Mayson tenho 20 anos </h3>
+  <h3> My name is Mayson and i'm 20 years old </h3>
   <p>
-    Sou um estudante de Ciência da Computação, no &nbsp;  
-    <img width="10px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Instituto Federal de Sergipe
+    I'm a Computer Science student at &nbsp;  
+    <img width="10px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Federal Institute of Sergipe
     <br/>
-    E também um Full Stack em desenvolvimento na &nbsp;  
-    <img width="15px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brasil.
+    And also a Full Stack under development at &nbsp;  
+    <img width="15px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brazil.
   </p>
   <p> 
     
