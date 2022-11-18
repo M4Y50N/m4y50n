@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4E90ff&fontColor=dadada&height=300&section=header&text=M4Y50N&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4E90ff&fontColor=dadada&height=300&section=header&text=M4Y50N&fontSize=90&animation=fadeIn" />
   <h1>Hello There! <br/> Welcome to Mayson's GitHub! 👌</h1>
   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100">
   <h3> Meu nome é Mayson tenho 20 anos </h3>
