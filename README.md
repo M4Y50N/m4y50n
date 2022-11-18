@@ -1,19 +1,19 @@
 
 <div align="center">
-  <h1>Hello There! Welcome to Mayson's GitHub! 👌</h1>
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4E90ff0f&fontColor=d6d6e6&height=300&section=header&text=M4Y50N&fontSize=90" />
+  <h1>Hello There! <br/> Welcome to Mayson's GitHub! 👌</h1>
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100">
   <h3> Meu nome é Mayson tenho 20 anos </h3>
   <p>
-    Sou um estudante de Ciência da Computação, no Instituto Federal de Sergipe
+    Sou um estudante de Ciência da Computação, no &nbsp;  
+    <img width="10px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Instituto Federal de Sergipe
     <br/>
-    E também um Full Stack em desenvolvimento na Kenzie Academy Brasil.
+    E também um Full Stack em desenvolvimento na &nbsp;  
+    <img width="15px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brasil.
   </p>
+  <img align="right" src="https://media.giphy.com/media/rLItOmwO8uIdNlP35O/giphy.gif" width="150">
 </div>
 
-<div align="center">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  </div>
 <a href="https://github.com/M4Y50N"></a>
   
 <div align=center>    
@@ -23,21 +23,15 @@
 </div>
 
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="M-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="M-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="M-Node" height="33" width="43" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="M-React" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="M-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="M-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="M-Python" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="center" alt="M-Rust" height="42" width="42" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
-  
-  <img align="center" alt="M-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+<div style="display: inline_block" align="center"><br>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="30">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="30">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="30">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="30">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="30">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="30">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30">
 
   <img align="right" alt="M-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/966819730616901752/1032012159846203412/dcmbh13-31be588a-d7c2-4518-b714-7f0aa41b7895.gif">
 </div>
