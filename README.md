@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"> <img src="https://cdn.discordapp.com/attachments/966819730616901752/1043371388658004018/rust.gif" width="55"/>
 
 <img align="right" alt="M-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/966819730616901752/1032012159846203412/dcmbh13-31be588a-d7c2-4518-b714-7f0aa41b7895.gif">
 
