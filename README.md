@@ -24,21 +24,23 @@
 </div>
 
 ##
-<p>
-  
-  _👨‍💻 I’m currently working as a Website Develop as a Freelancer_
+<div align="center">
+ <p>
 
-  _💻 I love writing code and learn anythings about it_
+   _👨‍💻 I’m currently working as a Website Develop as a Freelancer_
 
-  _⚡Fun fact: I love League of Legends and also hate at the same time_
+   _💻 I love writing code and learn anythings about it_
 
-  _📚 I’m currently learning how to build Websites with React_
+   _⚡Fun fact: I love League of Legends and also hate at the same time_
 
-  _🌱 I’m currently learning English 🤦‍♂_
+   _📚 I’m currently learning how to build Websites with React_
 
-  _☕️ I’m coffeer_
-  
- </p>
+   _🌱 I’m currently learning English 🤦‍♂_
+
+   _☕️ I’m coffeer_
+
+  </p>
+ </div>
  
  ##
  
