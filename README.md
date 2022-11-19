@@ -20,7 +20,7 @@
   <img width="10px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Federal Institute of Sergipe
 
   And also a Full Stack under development at <img width="15px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brazil.
- 
+  <hr/>
  <p>
   
   _👨‍💻 I’m currently working as a Website Develop as a Freelancer_
@@ -36,7 +36,9 @@
   _☕️ I’m coffeer_
   
  </p>
-
+ 
+ <hr/>
+ 
 <br/>
  
 </div>
