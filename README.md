@@ -1,32 +1,44 @@
 
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0606FF&fontColor=dadada&height=300&section=header&text=M4Y50N&fontSize=90&animation=fadeIn" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0606FF&fontColor=dadada&height=300&section=header&text=M4Y50N&fontSize=90&animation=fadeIn" />
-
-# Hello There! <br/> Welcome to Mayson's GitHub! 👌
-
-<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100">
-
-### My name is Mayson and i'm 20 years old
+<div align="center">
+ <h1>Hello There! <br/> Welcome to Mayson's GitHub! 👌</h1>
  
-I'm a Computer Science student at 
-<img width="10px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Federal Institute of Sergipe
+ <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100">
+</div>
 
-And also a Full Stack under development at <img width="15px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brazil.
  
+<div align="center">
+ 
+ <h3> My name is Mayson and i'm 20 years old </h3>
+ 
+  <br/>
+ 
+  I'm a Computer Science student at 
+  <img width="10px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Federal Institute of Sergipe
 
-_👨‍💻 I’m currently working as a Website Develop as a Freelancer_
-    
-_💻 I love writing code and learn anythings about it_
-    
-_⚡Fun fact: I love League of Legends and i also hate at the same time_
-    
-_📚 I’m currently learning how to build Websites with React_
-      
-_🌱 I’m currently learning English 🤦‍♂_
-    
-_☕️ I’m coffeer_
+  And also a Full Stack under development at <img width="15px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brazil.
+ 
+ <p>
+  
+  _👨‍💻 I’m currently working as a Website Develop as a Freelancer_
 
+  _💻 I love writing code and learn anythings about it_
 
+  _⚡Fun fact: I love League of Legends and also hate at the same time_
+
+  _📚 I’m currently learning how to build Websites with React_
+
+  _🌱 I’m currently learning English 🤦‍♂_
+
+  _☕️ I’m coffeer_
+  
+ </p>
+  
+</div>
+ 
 |![img](https://github-readme-stats-m4y50n.vercel.app/api?username=M4Y50N&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=true&border_radius=0&hide_rank=true)|![img](https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&card_width=400px&theme=github_dark&bg_color=161B22&border_radius=0&hide_border=true)|
 | ------------- | ------------- |
 
