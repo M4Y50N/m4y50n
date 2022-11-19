@@ -20,8 +20,11 @@
   <img width="10px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Federal Institute of Sergipe
 
   And also a Full Stack under development at <img width="15px" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brazil.
-  <hr/>
- <p>
+   
+</div>
+
+##
+<p>
   
   _👨‍💻 I’m currently working as a Website Develop as a Freelancer_
 
@@ -37,11 +40,7 @@
   
  </p>
  
- <hr/>
- 
-<br/>
- 
-</div>
+ ##
  
 |<img src="https://github-readme-stats-m4y50n.vercel.app/api?username=M4Y50N&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=true&border_radius=0&hide_rank=true"/>|<img height="200px" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&card_width=400px&theme=github_dark&bg_color=161B22&border_radius=0&hide_border=true" />|
 | ------------- | ------------- |
