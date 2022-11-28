@@ -11,7 +11,7 @@
  
 <div align="center">
  
- <h3> My name is Mayson and i'm 20 years old </h3>
+ <h3> My name is Mayson</h3>
  
   <br/>
  
