@@ -44,11 +44,11 @@
  
  
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=m4y50n&theme=material-palenight&hide_border=true&background=161B22&ring=40C463&fire=4CE775&sideNums=5299EA&currStreakNum=5299EA&currStreakLabel=5299EA&sideLabels=1C59B8)](https://git.io/streak-stats) |<img src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&border_radius=0&hide_border=true" />|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=m4y50n&theme=material-palenight&hide_border=true&background=161B22&ring=40C463&fire=4CE775&sideNums=5299EA&currStreakNum=5299EA&currStreakLabel=5299EA&sideLabels=1C59B8)](https://git.io/streak-stats) |<img height="197" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&hide_border=true" />|
 | ------------- | ------------- |
 
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4y50n&theme=github_dark)   |<img src="https://github-readme-stats-m4y50n.vercel.app/api?username=M4Y50N&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=true&border_radius=0&hide_rank=true"/>|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4y50n&theme=github_dark)   |<img src="https://github-readme-stats-m4y50n.vercel.app/api?username=M4Y50N&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"/>|
 | ------------- | ------------- |
 
  
