@@ -48,6 +48,10 @@
 | ------------- | ------------- |
 
 
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4y50n&theme=github_dark)  | [![GitHub Streak](https://streak-stats.demolab.com?user=m4y50n&theme=material-palenight&hide_border=true&background=161B22&ring=40C463&fire=4CE775&sideNums=5299EA&currStreakNum=5299EA&currStreakLabel=5299EA&sideLabels=1C59B8)](https://git.io/streak-stats) |
+| ------------- | ------------- |
+
  
 
 <hr/>  
