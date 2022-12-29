@@ -20,7 +20,7 @@
   I'm a Computer Science student at 
   <img width="10" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Federal Institute of Sergipe
 
-  And also a Full Stack under development at <img width="15" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brazil.
+  And also a Full Stack under development at <img width="15" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brazil
    
 </div>
 
