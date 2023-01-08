@@ -66,7 +66,7 @@
  
 [![img](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m4y50n_) [![img](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatopethersonreis@gmail.com) [![img](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayson-petherson) [![img](https://komarev.com/ghpvc/?username=M4Y50N&style=for-the-badge)](https://github.com/M4Y50N/)
 
-![Snake animation](https://github.com/m4y50n/m4y50n/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/m4y50n/m4y50n/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/m4y50n/m4y50n/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   
 <div align="center">
  <img src="https://media.giphy.com/media/rLItOmwO8uIdNlP35O/giphy.gif" width="250">
