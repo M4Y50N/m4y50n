@@ -33,7 +33,7 @@
 
    _💻 I love writing code and learn anythings about it_
 
-   _📚 I’m currently learning Typescript and Python Back-End_
+   _📚 I’m currently learning Typescript Node, ExpressJS and PostgresSQL_
 
    _🌱 I’m currently learning English 🤦‍♂_
 
