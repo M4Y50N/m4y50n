@@ -29,11 +29,11 @@
 <div align="center">
  <p>
 
-   _👨‍💻 I’m currently working as a Website Develop as a Freelancer_
+   _👨‍💻 I’m a Front-End Develop and currently working as a Website Develop as a Freelancer_
 
    _💻 I love writing code and learn anythings about it_
 
-   _📚 I’m currently learning Typescript Node, ExpressJS and PostgreSQL_
+   _📚 I’m currently learning Back-End with Typescript Node, ExpressJS and PostgreSQL_
 
    _🌱 I’m currently learning English 🤦‍♂_
 
