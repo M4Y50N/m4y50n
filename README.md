@@ -29,11 +29,11 @@
 <div align="center">
  <p>
 
-   _👨‍💻 I’m a Front-End Develop and currently working as a Website Develop as a Freelancer_
+   _👨‍💻 I’m a Full-Stack Develop and currently working as a Website Develop as a Freelancer_
 
    _💻 I love writing code and learn anythings about it_
 
-   _📚 I’m currently learning Back-End with Python and DJango framework_
+   _📚 I’m currently improve my Back-End skills with Python and DJango framework_
 
    _🌱 I’m currently learning English 🤦‍♂_
 
