@@ -29,7 +29,7 @@
 <div align="center">
  <p>
 
-   _👨‍💻 I’m a Full-Stack Develop and currently working as a Website Develop as a Freelancer_
+   _👨‍💻 I’m a Full-Stack Develop_
 
    _💻 I love writing code and learn anythings about it_
 
