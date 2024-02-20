@@ -33,7 +33,7 @@
 
    _💻 I love writing code and learn anythings about it_
 
-   _📚 I’m currently learning Java_
+   _📚 I’m currently learning Machine Learning with Python_
 
    _🌱 I’m currently learning English 🤦‍♂_
 
