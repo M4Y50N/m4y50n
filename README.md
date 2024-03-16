@@ -17,9 +17,9 @@
   <br/>
  
   I'm a Computer Science student at 
-  <img width="10" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Federal Institute of Sergipe
+  <img width="10" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png?ex=6607396b&is=65f4c46b&hm=b90d59bac2ffddf84f31d7fc07b0e12987be3aed34d4c30db3f80c76c6c8d2ea&"/> Federal Institute of Sergipe
 
-  And also a Full Stack graduated at <img width="15" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png"/> Kenzie Academy Brazil
+  And also a Full Stack graduated at <img width="15" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png?ex=660736cd&is=65f4c1cd&hm=5cec023270c67a51f1231b353d04c479d58697fa48fe01f866632ad956953bfb&"/> Kenzie Academy Brazil
    
 </div>
 
