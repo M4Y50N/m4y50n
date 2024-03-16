@@ -8,7 +8,6 @@
 <div align="center">
  <h1>Hello There! <br/> Welcome to Mayson's GitHub! 🦆👌</h1>
  
- <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100">
 </div>
  
 <div align="center">
@@ -68,9 +67,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/m4y50n/m4y50n/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/m4y50n/m4y50n/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   
-<div align="center">
- <img src="https://media.giphy.com/media/rLItOmwO8uIdNlP35O/giphy.gif" width="250">
-</div>
+
 <div align="center">
  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
  
