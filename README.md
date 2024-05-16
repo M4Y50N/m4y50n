@@ -17,9 +17,9 @@
   <br/>
  
   I'm a Computer Science student at 
-  <img width="10" src="https://media.discordapp.net/attachments/966819730616901752/1043283975558406216/ifs_logo.png?ex=662c236b&is=6619ae6b&hm=dcb0f5c0e0e5c1d7f30f6451781c1f2069b5d27307429bb4a5370009be11dcec&=&format=webp&quality=lossless"/> Federal Institute of Sergipe
+  <img width="10" src="https://res.cloudinary.com/ddhbhbxcs/image/upload/v1715901226/cxerwu1wjtvxfdatc5le.png"/> Federal Institute of Sergipe
 
-  And also a Full Stack graduated at <img width="15" src="https://cdn.discordapp.com/attachments/966819730616901752/1043281165999685642/2021-08-24_14-01_logo.png?ex=6643dbcd&is=66428a4d&hm=86c80210e0a5ade2dfb14b41f1684f83f96e4b3297f2f0bbe483c4b28f1cc3ee&"/> Kenzie Academy Brazil
+  And also a Full Stack graduated at <img width="15" src="https://res.cloudinary.com/ddhbhbxcs/image/upload/v1715901226/q415b8ur5hraid1ovtlw.png"/> Kenzie Academy Brazil
    
 </div>
 
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="43"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="45"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="53"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="53"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"> <img src="https://cdn.discordapp.com/attachments/966819730616901752/1043371388658004018/rust.gif?ex=66078ad3&is=65f515d3&hm=694bb362c99d8aab9fab7f2a0ac5cc69005ce94b174d66eb1de81522c040f5c6&" width="55"/> <img align="right" alt="M-pic" height="180"  src="https://cdn.discordapp.com/attachments/966819730616901752/1032012159846203412/dcmbh13-31be588a-d7c2-4518-b714-7f0aa41b7895.gif?ex=661596b8&is=660321b8&hm=225fab5b329dd349ecea4e5146c9b3859ce49d9370a2a53676a9dfa86d6e704c&"> 
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="43"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="45"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="53"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="53"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"> <img src="https://res.cloudinary.com/ddhbhbxcs/image/upload/v1715901434/lxmayd1gchmjthwwnpjo.gif" width="55"/> <img align="right" alt="M-pic" height="180"  src="https://res.cloudinary.com/ddhbhbxcs/image/upload/v1715901226/ljbk2igmyqkps6rytmug.gif"> 
 
 ## 
  
