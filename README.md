@@ -46,7 +46,7 @@
  
  
 
-| <img height="197" src="https://cdn.discordapp.com/attachments/447102571262246916/1303379754145284097/IMG_20240705_155221.png?ex=6736bf3d&is=67356dbd&hm=8763f223e3868f23b4aef146654dcf3837b7113d055a8d6cf3ea87ffcf42df5c&" />|<img height="197" width="800" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&hide_border=true&include_orgs=true&count_private=true" />|
+| <img height="197" width="160" src="https://cdn.discordapp.com/attachments/447102571262246916/1303379754145284097/IMG_20240705_155221.png?ex=6736bf3d&is=67356dbd&hm=8763f223e3868f23b4aef146654dcf3837b7113d055a8d6cf3ea87ffcf42df5c&" />|<img height="197" width="800" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&hide_border=true&include_orgs=true&count_private=true" />|
 | ------------- | ------------- |
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4y50n&theme=github_dark)|<img src="https://github-readme-stats-m4y50n.vercel.app/api?username=M4Y50N&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=false&hide_rank=true"/>|
