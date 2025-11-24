@@ -32,7 +32,7 @@
 
    _💻 I love writing code and learn anythings about it_
 
-   _📚 I’m currently learning React Native_
+   _📚 I’m currently learning Rust_
 
    _🌱 I’m currently learning English 🤦‍♂_
 
@@ -46,7 +46,7 @@
  
  
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=m4y50n&theme=material-palenight&hide_border=true&background=161B22&ring=40C463&fire=4CE775&sideNums=5299EA&currStreakNum=5299EA&currStreakLabel=5299EA&sideLabels=1C59B8)](https://git.io/streak-stats) |<img height="197" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&hide_border=true&include_orgs=true&count_private=true" />|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=m4y50n&theme=material-palenight&hide_border=true&background=161B22&ring=40C463&fire=4CE775&sideNums=5299EA&currStreakNum=5299EA&currStreakLabel=5299EA&sideLabels=1C59B8)](https://git.io/streak-stats) | <img height="197" src="https://github-readme-stats-m4y50n.vercel.app/api/top-langs/?username=M4Y50N&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&hide_border=true&include_orgs=true&count_private=true" />|
 | ------------- | ------------- |
 
 
