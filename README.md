@@ -59,23 +59,6 @@
 <br/>
 <br/>
 
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="43"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="45"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="53"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="53"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"> <img src="https://res.cloudinary.com/ddhbhbxcs/image/upload/v1715901434/lxmayd1gchmjthwwnpjo.gif" width="55"/> <img align="right" alt="M-pic" height="180"  src="https://res.cloudinary.com/ddhbhbxcs/image/upload/v1715901226/ljbk2igmyqkps6rytmug.gif"> 
-
-## 
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="43"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="45"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8740171b-ed4f-49f9-a0a4-d69d302fd26a" /> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="53"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="53"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"> <img src="https://res.cloudinary.com/ddhbhbxcs/image/upload/v1715901434/lxmayd1gchmjthwwnpjo.gif" width="55"/> <img align="right" alt="M-pic" height="180"  src="https://res.cloudinary.com/ddhbhbxcs/image/upload/v1715901226/ljbk2igmyqkps6rytmug.gif"> 
  
 [![img](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m4y50n_) [![img](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatopethersonreis@gmail.com) [![img](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayson-petherson) [![img](https://komarev.com/ghpvc/?username=M4Y50N&style=for-the-badge)](https://github.com/M4Y50N/)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/m4y50n/m4y50n/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/m4y50n/m4y50n/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  
-#
-<div align="center">
- <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
- 
- <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-
- <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-</div>
-
-
-  
-  
